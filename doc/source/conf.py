@@ -112,7 +112,7 @@ source_suffix = '.rst'
 
 # General substitutions.
 project = 'NumPy'
-copyright = '2008-2022, NumPy Developers'
+copyright = '2008-2023, NumPy Developers'
 
 # The default replacements for |version| and |release|, also used in various
 # other places throughout the built documents.
@@ -188,7 +188,6 @@ html_theme_options = {
       "image_dark": "numpylogo_dark.svg",
   },
   "github_url": "https://github.com/numpy/numpy",
-  "twitter_url": "https://twitter.com/numpy_team",
   "collapse_navigation": True,
   "external_links": [
       {"name": "Learn", "url": "https://numpy.org/numpy-tutorials/"},
